@@ -1,0 +1,11 @@
+# Ignore large textbooks
+课本/
+
+# Obsidian workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
